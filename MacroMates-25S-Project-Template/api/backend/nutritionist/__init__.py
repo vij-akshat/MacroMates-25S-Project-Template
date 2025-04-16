@@ -1,0 +1,1 @@
+from backend.nutritionist.nutritionist_routes import nutritionist_bp 
